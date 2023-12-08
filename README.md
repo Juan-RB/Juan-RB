@@ -1,6 +1,5 @@
 ### Hola soy Juan Esteban 👋
 
-<!--
 
 Here are some ideas to get you started:
 
